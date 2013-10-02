@@ -6,6 +6,7 @@ Given a program:
 
     var x = 3
     var y = x * x
+    console.log('done')
 
 It will output:
 
@@ -13,6 +14,7 @@ It will output:
     x <- 3
     var y = x * x
     y <- 9
+    console.log('done')
 
 #Quick Start
 
