@@ -1,6 +1,6 @@
 #various
 
-This is an experimental in line-by-line variable logging using V8's debugger API.
+This is an experiment in line-by-line variable logging using V8's debugger API.
 
 Given a program:
 
